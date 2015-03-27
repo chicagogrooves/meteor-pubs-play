@@ -1,5 +1,8 @@
 if (Meteor.isClient) {
-  UI.registerHelper("numbers", function () {
-    return numbersCollection.find();
+  UI.registerHelper("oddNumbers", function () {
+    return oddsCollection.find();
+  });
+  UI.registerHelper("evenNumbers", function () {
+    return evensCollection.find();
   });
 }
