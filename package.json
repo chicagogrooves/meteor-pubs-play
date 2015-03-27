@@ -1,0 +1,15 @@
+{
+  "name": "pubs-play",
+  "version": "1.0.0",
+  "description": "demo of meteor pubsub",
+  "main": "index.js",
+  "scripts": {
+    "start": "meteor --port 3141",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gist.github.com/b0a2364d6c4b82d855dc.git"
+  },
+  "author": "Dean Radcliffe",
+  "license": "MIT"
+}
