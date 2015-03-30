@@ -4,7 +4,7 @@
   "description": "demo of meteor pubsub",
   "main": "index.js",
   "scripts": {
-    "start": "meteor --port 3141",
+    "start": "meteor --port 3141"
   },
   "repository": {
     "type": "git",
